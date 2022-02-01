@@ -1,0 +1,63 @@
+﻿@model IEnumerable<ProyectoMVC.Models.Contratos>
+
+@{
+    ViewBag.Title = "Contratos";
+}
+
+<h1 style="color:brown">Modulo de Contratos</h1>
+
+<p>
+    @Html.ActionLink("Registrar Contratos", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Trabajador.Identiificacion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NombreEntidad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NumeroContrato)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TrabajadorVinculado)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FechaInicio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FechaFin)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Trabajador.Identiificacion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NombreEntidad)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NumeroContrato)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TrabajadorVinculado)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FechaInicio)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FechaFin)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.ContratoId }) |
+            @Html.ActionLink("Detalle", "Details", new { id=item.ContratoId }) |
+            @Html.ActionLink("Borrar", "Delete", new { id=item.ContratoId })
+        </td>
+    </tr>
+}
+
+</table>

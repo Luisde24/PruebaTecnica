@@ -1,0 +1,66 @@
+﻿@model ProyectoMVC.Models.Contratos
+
+@{
+    ViewBag.Title = "Detalle";
+}
+
+<h1 style="color:forestgreen">Detalle del Contrato</h1>
+
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Trabajador.PrimerNombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Trabajador.PrimerNombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreEntidad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreEntidad)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumeroContrato)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumeroContrato)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TrabajadorVinculado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TrabajadorVinculado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FechaInicio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FechaInicio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FechaFin)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FechaFin)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Actualizar", "Edit", new { id = Model.ContratoId }) |
+    @Html.ActionLink("Volver a la lista", "Index")
+</p>

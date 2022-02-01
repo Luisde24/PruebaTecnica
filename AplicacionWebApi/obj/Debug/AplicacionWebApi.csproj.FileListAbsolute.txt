@@ -1,0 +1,310 @@
+C:\Users\User\Desktop\AplicacionWebApi\bin\AplicacionWebApi.dll.config
+C:\Users\User\Desktop\AplicacionWebApi\bin\AplicacionWebApi.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\AplicacionWebApi.pdb
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\csc.exe
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\csi.exe
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\AplicacionWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\AplicacionWebApi\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\System.Web.Http.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\WebActivatorEx.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\WebGrease.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\AplicacionWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\AplicacionWebApi\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\AplicacionWebApi\bin\System.Web.Http.xml
+C:\Users\User\Desktop\AplicacionWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\AplicacionWebApi\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\AplicacionWebApi\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\AplicacionWebApi\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\AplicacionWebApi\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\AplicacionWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\AplicacionWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\AplicacionWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\AplicacionWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\AplicacionWebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\es\System.Web.Helpers.resources.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\es\System.Web.Http.resources.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\es\System.Web.Mvc.resources.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\es\System.Web.Optimization.resources.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\es\System.Web.Razor.resources.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\es\System.Web.WebPages.resources.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\User\Desktop\AplicacionWebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\User\Desktop\AplicacionWebApi\obj\Debug\AplicacionWebApi.csprojAssemblyReference.cache
+C:\Users\User\Desktop\AplicacionWebApi\obj\Debug\AplicacionWebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AplicacionWebApi\obj\Debug\AplicacionWebApi.csproj.CopyComplete
+C:\Users\User\Desktop\AplicacionWebApi\obj\Debug\AplicacionWebApi.dll
+C:\Users\User\Desktop\AplicacionWebApi\obj\Debug\AplicacionWebApi.pdb
+C:\Users\User\Desktop\AplicacionWebApi\bin\XmlDocument.xml
+C:\Users\User\Desktop\AplicacionWebApi\bin\Swashbuckle.Core.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\AplicacionWebApi.dll.config
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\AplicacionWebApi.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\AplicacionWebApi.pdb
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\XmlDocument.xml
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\csc.exe
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\csc.exe.config
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\csc.rsp
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\csi.exe
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\csi.exe.config
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\csi.rsp
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.Console.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.Net.Http.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\vbc.exe
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\vbc.exe.config
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\vbc.rsp
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\Antlr3.Runtime.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\Newtonsoft.Json.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\Swashbuckle.Core.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\System.Web.Helpers.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\System.Web.Http.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\System.Web.Mvc.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\System.Web.Optimization.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\System.Web.Razor.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\System.Web.WebPages.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\WebActivatorEx.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\WebGrease.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\Newtonsoft.Json.xml
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\System.Web.Helpers.xml
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\System.Web.Http.xml
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\System.Web.Mvc.xml
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\System.Web.Optimization.xml
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\System.Web.Razor.xml
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\System.Web.WebPages.xml
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\es\System.Web.Helpers.resources.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\es\System.Web.Http.resources.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\es\System.Web.Mvc.resources.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\es\System.Web.Optimization.resources.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\es\System.Web.Razor.resources.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\es\System.Web.WebPages.resources.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\obj\Debug\AplicacionWebApi.csproj.AssemblyReference.cache
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\obj\Debug\AplicacionWebApi.csproj.CoreCompileInputs.cache
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\obj\Debug\AplicacionWebApi.csproj.CopyComplete
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\obj\Debug\AplicacionWebApi.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\obj\Debug\AplicacionWebApi.pdb
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\57300\Desktop\Entrega de Prueba\AplicacionWebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\AplicacionWebApi.dll.config
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\AplicacionWebApi.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\AplicacionWebApi.pdb
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\XmlDocument.xml
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\csc.exe
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\csc.exe.config
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\csc.rsp
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\csi.exe
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\csi.exe.config
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\csi.rsp
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.Console.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.Net.Http.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\vbc.exe
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\vbc.exe.config
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\vbc.rsp
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\Antlr3.Runtime.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\Newtonsoft.Json.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\Swashbuckle.Core.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\System.Web.Helpers.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\System.Web.Http.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\System.Web.Mvc.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\System.Web.Optimization.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\System.Web.Razor.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\System.Web.WebPages.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\WebActivatorEx.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\WebGrease.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\Newtonsoft.Json.xml
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\System.Web.Helpers.xml
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\System.Web.Http.xml
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\System.Web.Mvc.xml
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\System.Web.Optimization.xml
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\System.Web.Razor.xml
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\System.Web.WebPages.xml
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\es\System.Web.Helpers.resources.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\es\System.Web.Http.resources.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\es\System.Web.Mvc.resources.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\es\System.Web.Optimization.resources.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\es\System.Web.Razor.resources.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\es\System.Web.WebPages.resources.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\obj\Debug\AplicacionWebApi.csproj.AssemblyReference.cache
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\obj\Debug\AplicacionWebApi.csproj.CoreCompileInputs.cache
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\obj\Debug\AplicacionWebApi.csproj.CopyComplete
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\obj\Debug\AplicacionWebApi.dll
+C:\Users\57300\Desktop\Somos + actitud\AplicacionWebApi\obj\Debug\AplicacionWebApi.pdb
